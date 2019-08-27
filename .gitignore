@@ -1,0 +1,10 @@
+/config
+/log
+.idea/
+target/
+build/
+.gradle/
+**/*.iml
+**/logs
+/out/
+.DS_Store
